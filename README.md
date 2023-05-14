@@ -1,2 +1,2 @@
 # html-portfolio
-Sample web resources for project managers
+Shabina's sample web resources for project managers
